@@ -1,0 +1,2 @@
+# simpleWaveDemo
+ wave function
